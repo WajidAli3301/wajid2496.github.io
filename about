@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Hank Quinlan, Horrible Cop</title>
+		<link rel="stylesheet" type="text/css" href="/css/main.css">
+	</head>
+	<body>
+	
+		<div class="container">
+    		<div class="blurb">
+        		<h1>Hi Guys, I am Linux Engineer and just trying to pass time at home!</h1>
+				<p>You also do something crazy.</em> Just Try.
+    		</div><!-- /.blurb -->
+		</div><!-- /.container -->
+</html>
